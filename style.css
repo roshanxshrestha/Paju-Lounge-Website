@@ -486,7 +486,9 @@ section{
 .menu-item:nth-last-of-type(1)::after{
     border: none;
 }
-
+.menu-note{
+    margin: 0 0 15px;
+}
 .menu-item-title{
     display: flex;
     max-width: 100%;
